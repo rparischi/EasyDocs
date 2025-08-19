@@ -1,0 +1,302 @@
+2025-08-05 17:08:23,556 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:08:24,091 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:08:24,091 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:08:24,092 [INFO] Execução concluída com sucesso.
+2025-08-05 17:08:49,543 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:08:54,092 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:08:54,556 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:08:54,558 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:08:54,558 [INFO] Execução concluída com sucesso.
+2025-08-05 17:09:07,292 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:09:24,558 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:09:25,047 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:09:25,047 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:09:25,047 [INFO] Execução concluída com sucesso.
+2025-08-05 17:09:55,048 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:09:55,508 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:09:55,508 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:09:55,508 [INFO] Execução concluída com sucesso.
+2025-08-05 17:10:17,216 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:10:25,509 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:10:25,983 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:10:25,984 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:10:25,984 [INFO] Execução concluída com sucesso.
+2025-08-05 17:10:55,985 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:10:56,443 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:10:56,444 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:10:56,444 [INFO] Execução concluída com sucesso.
+2025-08-05 17:11:26,445 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:11:26,900 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:11:26,900 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:11:26,900 [INFO] Execução concluída com sucesso.
+2025-08-05 17:11:56,901 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:11:57,361 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:11:57,361 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:11:57,361 [INFO] Execução concluída com sucesso.
+2025-08-05 17:12:27,363 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:12:27,834 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:12:27,835 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:12:27,835 [INFO] Execução concluída com sucesso.
+2025-08-05 17:12:57,836 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:12:58,358 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:12:58,358 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:12:58,359 [INFO] Execução concluída com sucesso.
+2025-08-05 17:13:28,360 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:13:28,821 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:13:28,821 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:13:28,821 [INFO] Execução concluída com sucesso.
+2025-08-05 17:13:58,823 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:13:59,316 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:13:59,317 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:13:59,317 [INFO] Execução concluída com sucesso.
+2025-08-05 17:14:29,318 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:14:29,850 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:14:29,850 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:14:29,850 [INFO] Execução concluída com sucesso.
+2025-08-05 17:14:59,851 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:15:00,310 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:15:00,310 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:15:00,310 [INFO] Execução concluída com sucesso.
+2025-08-05 17:15:30,311 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:15:30,782 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:15:30,782 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:15:30,782 [INFO] Execução concluída com sucesso.
+2025-08-05 17:16:00,784 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:16:01,240 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:16:01,240 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:16:01,241 [INFO] Execução concluída com sucesso.
+2025-08-05 17:16:10,104 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:16:31,242 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:16:31,696 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:16:31,696 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:16:31,696 [INFO] Execução concluída com sucesso.
+2025-08-05 17:17:01,696 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:17:02,148 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:17:02,148 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:17:02,149 [INFO] Execução concluída com sucesso.
+2025-08-05 17:17:32,151 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:17:32,604 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:17:32,604 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:17:32,605 [INFO] Execução concluída com sucesso.
+2025-08-05 17:18:02,606 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:18:03,068 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:18:03,068 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:18:03,069 [INFO] Execução concluída com sucesso.
+2025-08-05 17:18:33,070 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:18:33,526 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:18:33,526 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:18:33,527 [INFO] Execução concluída com sucesso.
+2025-08-05 17:19:03,528 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:19:03,976 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:19:03,976 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:19:03,976 [INFO] Execução concluída com sucesso.
+2025-08-05 17:19:11,807 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:19:27,943 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:19:33,977 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:19:34,492 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:19:34,492 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:19:34,492 [INFO] Execução concluída com sucesso.
+2025-08-05 17:20:04,494 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:20:04,953 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:20:04,953 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:20:04,954 [INFO] Execução concluída com sucesso.
+2025-08-05 17:20:05,901 [ERROR] Erro ao salvar canhoto: column "numeronf" of relation "edi_ocorrencias_entrega" does not exist
+LINE 2: ...             INSERT INTO edi_ocorrencias_entrega (numeronf, ...
+                                                             ^
+
+2025-08-05 17:20:13,822 [INFO] Execução concluída com sucesso.
+2025-08-05 17:20:34,954 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:20:35,409 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:20:35,409 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:20:35,409 [INFO] Execução concluída com sucesso.
+2025-08-05 17:21:05,411 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:21:05,870 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:21:05,870 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:21:05,871 [INFO] Execução concluída com sucesso.
+2025-08-05 17:21:26,633 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:21:35,871 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:21:36,322 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:21:36,322 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:21:36,322 [INFO] Execução concluída com sucesso.
+2025-08-05 17:21:40,943 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:22:06,323 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:22:06,789 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:22:06,789 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:22:06,790 [INFO] Execução concluída com sucesso.
+2025-08-05 17:22:36,791 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:22:37,255 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:22:37,255 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:22:37,255 [INFO] Execução concluída com sucesso.
+2025-08-05 17:23:07,256 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:23:07,725 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:23:07,725 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:23:07,725 [INFO] Execução concluída com sucesso.
+2025-08-05 17:23:37,726 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:23:38,195 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:23:38,195 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:23:38,196 [INFO] Execução concluída com sucesso.
+2025-08-05 17:23:59,212 [ERROR] Erro ao salvar canhoto: column "numeronf" of relation "edi_ocorrencias_entrega" does not exist
+LINE 2: ...             INSERT INTO edi_ocorrencias_entrega (numeronf, ...
+                                                             ^
+
+2025-08-05 17:24:08,197 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:24:08,650 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:24:08,651 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:24:08,651 [INFO] Execução concluída com sucesso.
+2025-08-05 17:24:11,895 [INFO] Execução concluída com sucesso.
+2025-08-05 17:24:38,652 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:24:39,150 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:24:39,150 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:24:39,150 [INFO] Execução concluída com sucesso.
+2025-08-05 17:25:09,151 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:25:09,601 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:25:09,601 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:25:09,601 [INFO] Execução concluída com sucesso.
+2025-08-05 17:25:39,602 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:25:40,069 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:25:40,069 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:25:40,069 [INFO] Execução concluída com sucesso.
+2025-08-05 17:26:10,070 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:26:10,528 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:26:10,529 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:26:10,529 [INFO] Execução concluída com sucesso.
+2025-08-05 17:26:40,530 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:26:40,998 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:26:40,998 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:26:40,998 [INFO] Execução concluída com sucesso.
+2025-08-05 17:27:11,000 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:27:11,458 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:27:11,458 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:27:11,458 [INFO] Execução concluída com sucesso.
+2025-08-05 17:27:41,459 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:27:41,917 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:27:41,918 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:27:41,918 [INFO] Execução concluída com sucesso.
+2025-08-05 17:28:11,920 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:28:12,419 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:28:12,419 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:28:12,420 [INFO] Execução concluída com sucesso.
+2025-08-05 17:28:42,421 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:28:42,885 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:28:42,885 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:28:42,885 [INFO] Execução concluída com sucesso.
+2025-08-05 17:28:53,074 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:29:01,399 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:29:12,887 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:29:13,337 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:29:13,338 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:29:13,338 [INFO] Execução concluída com sucesso.
+2025-08-05 17:29:43,339 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:29:43,864 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:29:43,864 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:29:43,864 [INFO] Execução concluída com sucesso.
+2025-08-05 17:30:13,865 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:30:14,317 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:30:14,317 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:30:14,317 [INFO] Execução concluída com sucesso.
+2025-08-05 17:30:44,318 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:30:44,775 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:30:44,775 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:30:44,775 [INFO] Execução concluída com sucesso.
+2025-08-05 17:31:14,776 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:31:15,228 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:31:15,228 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:31:15,228 [INFO] Execução concluída com sucesso.
+2025-08-05 17:31:45,229 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:31:45,691 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:31:45,691 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:31:45,691 [INFO] Execução concluída com sucesso.
+2025-08-05 17:32:15,692 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:32:16,137 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:32:16,138 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:32:16,138 [INFO] Execução concluída com sucesso.
+2025-08-05 17:32:20,680 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:32:23,693 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:32:46,139 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:32:46,598 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:32:46,598 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:32:46,598 [INFO] Execução concluída com sucesso.
+2025-08-05 17:33:16,600 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:33:17,073 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:33:17,073 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:33:17,073 [INFO] Execução concluída com sucesso.
+2025-08-05 17:33:47,073 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:33:48,232 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:33:48,232 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:33:48,232 [INFO] Execução concluída com sucesso.
+2025-08-05 17:34:18,233 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:34:18,693 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:34:18,693 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:34:18,693 [INFO] Execução concluída com sucesso.
+2025-08-05 17:34:48,694 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:34:49,197 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:34:49,197 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:34:49,198 [INFO] Execução concluída com sucesso.
+2025-08-05 17:35:19,019 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:35:19,198 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:35:19,646 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:35:19,647 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:35:19,647 [INFO] Execução concluída com sucesso.
+2025-08-05 17:35:24,782 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:35:49,647 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:35:50,114 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:35:50,114 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:35:50,115 [INFO] Execução concluída com sucesso.
+2025-08-05 17:36:20,116 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:36:20,602 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:36:20,603 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:36:20,603 [INFO] Execução concluída com sucesso.
+2025-08-05 17:36:29,097 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:36:31,549 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:36:50,603 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:36:51,242 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:36:51,242 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:36:51,242 [INFO] Execução concluída com sucesso.
+2025-08-05 17:37:21,243 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:37:21,697 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:37:21,698 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:37:21,698 [INFO] Execução concluída com sucesso.
+2025-08-05 17:37:51,699 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:37:52,154 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:37:52,154 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:37:52,154 [INFO] Execução concluída com sucesso.
+2025-08-05 17:38:22,155 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:38:22,609 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:38:22,609 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:38:22,610 [INFO] Execução concluída com sucesso.
+2025-08-05 17:38:40,151 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:38:44,517 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-05 17:38:52,611 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:38:53,064 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:38:53,064 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:38:53,064 [INFO] Execução concluída com sucesso.
+2025-08-05 17:39:20,591 [INFO] Canhoto salvo: 152066
+2025-08-05 17:39:23,065 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:39:23,521 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:39:23,521 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:39:23,521 [INFO] Execução concluída com sucesso.
+2025-08-05 17:39:24,742 [INFO] Execução concluída com sucesso.
+2025-08-05 17:39:53,522 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:39:54,015 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:39:54,015 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:39:54,016 [INFO] Execução concluída com sucesso.
+2025-08-05 17:40:24,017 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:40:24,467 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:40:24,467 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:40:24,467 [INFO] Execução concluída com sucesso.
+2025-08-05 17:40:54,468 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:40:54,948 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:40:54,948 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:40:54,949 [INFO] Execução concluída com sucesso.
+2025-08-05 17:41:24,950 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:41:25,409 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:41:25,409 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:41:25,409 [INFO] Execução concluída com sucesso.
+2025-08-05 17:41:55,410 [INFO] Iniciando execução para data 05/08/2025
+2025-08-05 17:41:55,870 [ERROR] Erro na autenticação EasyDoc: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:41:55,870 [ERROR] Erro na execução do usecase: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/login
+2025-08-05 17:41:55,871 [INFO] Execução concluída com sucesso.
+2025-08-19 16:37:06,097 [INFO] Iniciando execução para data 19/08/2025
+2025-08-19 16:37:23,880 [INFO] Autenticado com sucesso na EasyDoc.
+2025-08-19 16:38:36,907 [ERROR] Erro ao consultar canhotos: 400 Client Error: Bad Request for url: https://wsoli.easydocs.com.br/Operation/pesquisametadadodrive
+2025-08-19 16:40:33,578 [INFO] Iniciando execução para data 19/08/2025
